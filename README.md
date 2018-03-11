@@ -1,8 +1,8 @@
-# Lab 6 - *Name of App Here*
+# Lab 6 - *Photo Map*
 
-**Name of your app** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
+**Photo Map** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -18,12 +18,17 @@ The following **stretch** user stories are implemented:
 - [ ] User sees a custom annotation (+1pt)
 - [ ] User can see Fullscreen Picture (+1pt)
 - [ ] User sees a custom image for the "pin" (+1pt)
-- [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+- [x] List anything else that you can get done to improve the app functionality! (+1-3pts)
+
+1.Allow user to search more locations in map. 
+2.Filer by distance from where the user is. 
+3.Provide suggested place on picture take.
+4.Allow for one pin to represent an array of pictures of the same place.
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1.API manager calls 
+2.Navigation inside a tab bar controller
 
 ## Video Walkthrough
 
@@ -35,8 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Figuring out where to put certain pieces of code. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
